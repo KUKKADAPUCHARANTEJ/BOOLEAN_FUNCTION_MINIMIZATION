@@ -1,9 +1,9 @@
 
 # BOOLEAN_FUNCTION_MINIMIZATION
 ```
-Developed by: KAVINRAJA D
+Developed by:KUKKADAPU CHARAN TEJ
 
-RegisterNumber: 212222240047
+RegisterNumber: 24900279
 ```
 
 **AIM:**
